@@ -1,3 +1,7 @@
+This is my copy of the original porject, as I do not have a Solr Pump I will remove that part, and do some optimilisations 
+------
+
+
 A word of warning: to make use of this script you will have to connect a rs485 connector to your equipment. This means working on mains-voltage equipment so use your head. Always power down equipment before screwing them open and poking around in them. 
 Also, all of this software is provided AS-IS with no implied warranty or liability under sections 15, and 16 of the GPL V3. So whatever happens, it is not my fault ;)
 
